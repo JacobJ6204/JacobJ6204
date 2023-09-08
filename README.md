@@ -1,9 +1,9 @@
-### Hello
+# Hello
 
 Previous coding experience, if any. 
 I have a little coding experience in Javascript, HTML, and CSS
 
-Reason(s) for taking this class. 
+Reasons for taking this class. 
 My parents wanted me to, and I think an understanding and application of computer science could be very useful in the future
 
 Other interests (academic or otherwise). 
